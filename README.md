@@ -8,7 +8,7 @@ _A beacon of light to rise far above on top our far-sight tower, guiding souls a
 - It may be locally interactive.
 - It may even be remotely interactive...
 
-Our vision is a long pole hopefully a lot more than 20ft ABOVE our highest tower with a few really bright LEDs on top that are visible over 1000ft away which means you may be able to glimpse it from the playa.  500ft is minimal since that's the distance to Duck Pond.
+Our vision is a long pole hopefully a lot more than 20ft ABOVE our highest tower with a few really bright LEDs on top that are visible over 1000ft away which means you may be able to glimpse it from the esplanade.  500ft is minimal since that's the distance to Duck Pond.
 
 The system will default to sending out WOOP WOOP in morse code, one seqence in pink and another in a random RGB color.  It will try to beam as much power as possible towards the inner 180 degrees but may have some power towards the rim.  No power should be wasted upwards and very little downwards.
 
